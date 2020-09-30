@@ -25,7 +25,7 @@ Week 1
 1. Decision Making: An Introduction
 2. Regression: Overfitting and Curse of Dimensionality
 
-Week 2-2.5
+Week 2
 
 3. Regression: a Probabilistic View
 4. Risks and Bayes Optimal Prediction
@@ -36,7 +36,7 @@ Week 3
 
 Week 4
    
-1. Gaussian Identities and Bias and Variance Decomposition
+1. Bias and Variance Decomposition
 2. Feature Transforms and Kernel Methods
 
 Week 5
@@ -62,9 +62,9 @@ Week 9
 
 
 ## Readings:
-- Part I, [Mathematics for Machine Learning](https://mml-book.github.io/), Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Cambridge University Press, 2020.
+- Chapter 1, 2, 3 and 4, [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/Papers/ESLII.pdf), Hastie, Tibshirani and Friedman, Springer 2009
 
-- Chapter 1, 2, 3 and 4, [The Elements of Statistical Learning] (http://web.stanford.edu/~hastie/Papers/ESLII.pdf), 
+- Part I, [Mathematics for Machine Learning](https://mml-book.github.io/), Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Cambridge University Press, 2020.
 
 - Cheatsheet on linear algebra:
 [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), Petersen and Pedersen, 2012
