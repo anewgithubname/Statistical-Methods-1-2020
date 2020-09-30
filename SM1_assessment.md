@@ -116,7 +116,7 @@ The report should give sufficient technical details on
 
 
 
- **4.1 Criteria for assessment** will include
+ **Criteria for assessment** will include
 
 
 
