@@ -5,6 +5,7 @@ Taught by [Dr. Song Liu](http://allmodelsarewrong.net), Office: Fry Building, GA
 ## TL;DR
 An introduction to computational statistical learning and decision making (supervised learning). Find more at 
 [Syllabus](#Syllabus), 
+[Reading List](#Readings), 
 [Support](#Support), 
 [Assessment Plan](#Assessment-Plan).
 
@@ -17,9 +18,6 @@ An introduction to computational statistical learning and decision making (super
 - Textbook II:
 [Probabilistic Graphical Models Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models), Daphne Koller and Nir Friedman, MIT Press, 2009. 
   - Read chapter 3 and 4.
-
-- Cheatsheet on linear algebra:
-[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), Petersen and Pedersen, 2012
 
 ## Syllabus 
 
@@ -61,6 +59,15 @@ Week 8
 Week 9
 
 1.  Advanced Topics in Machine Learning (Guest Lectures, TBD)
+
+
+## Readings:
+- Part I, [Mathematics for Machine Learning](https://mml-book.github.io/), Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Cambridge University Press, 2020.
+
+- Chapter 1, 2, 3 and 4, [The Elements of Statistical Learning] (http://web.stanford.edu/~hastie/Papers/ESLII.pdf), 
+
+- Cheatsheet on linear algebra:
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf), Petersen and Pedersen, 2012
 
 ## Support
 Post your questions on Blackboard.
