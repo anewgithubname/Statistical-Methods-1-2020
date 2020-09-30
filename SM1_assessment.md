@@ -22,7 +22,7 @@ Examples of portfolio/report are available upon request.
 
 
 
-**Personal portfolio (30%)**
+**1 Personal portfolio (30%)**
 
 
 
@@ -46,7 +46,7 @@ For each topic, there should be a document submission (except the Probability Th
 
 
 
-**Assessed coursework (40%)**
+**2 Assessed coursework (40%)**
 
 
 
@@ -64,7 +64,7 @@ Each of the two submitted pieces of work will be worth 20%. Points will be award
 
 
 
-**Group project (30%)**
+**3 Group project (30%)**
 
 
 
@@ -94,7 +94,7 @@ The computational aspects of the project will be assessed for your Statistical C
 
 
 
-**SPECIFIC Guidelines for Statistical Methods 1 Report**
+**4 SPECIFIC Guidelines for Statistical Methods 1 Report**
 
 Overall, the report should be written like an academic paper, typeset by Latex. You should NOT include programming code in the report. Use pseudo-code instead to explain your algorithm if necessary. 
 
@@ -116,7 +116,7 @@ The report should give sufficient technical details on
 
 
 
- **Criteria for assessment** will include
+ **4.1 Criteria for assessment** will include
 
 
 
