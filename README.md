@@ -69,4 +69,4 @@ Office hour: differs from week to week. To be announced at the weekly lecture.
 
 Unofficial support: Daniel Williams (daniel.williams -aaaat- bristol.ac.uk) and Mingxuan Yi (mingxuan.yi -aaat- gmail.com)
 
-## [Assessment Plan](https://github.com/lamfeeling/Statistical-Methods-1-UoB/blob/master/SM1%20assessment.md)
+## [Assessment Plan](SM1 assessment.md)
