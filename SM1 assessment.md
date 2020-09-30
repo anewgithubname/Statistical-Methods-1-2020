@@ -94,7 +94,7 @@ The computational aspects of the project will be assessed for your Statistical C
 
 
 
-**Specific Guidelines for Statistical Methods 1 Report**
+**SPECIFIC Guidelines for Statistical Methods 1 Report**
 
 Overall, the report should be written like an academic paper, typeset by Latex. You should NOT include programming code in the report. Use pseudo-code instead to explain your algorithm if necessary. 
 
