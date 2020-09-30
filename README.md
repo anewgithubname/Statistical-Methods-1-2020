@@ -3,7 +3,9 @@
 Taught by [Dr. Song Liu](http://allmodelsarewrong.net), Office: Fry Building, GA18. 
 
 ## TL;DR
-An introduction to computational statistical learning and decision making (supervised learning). Find more at 
+An introduction to computational statistical learning and decision making (supervised learning). 
+
+Find more at 
 [Syllabus](#Syllabus), 
 [Reading List](#Readings), 
 [Support](#Support), 
