@@ -41,7 +41,7 @@ Week 4
 1. Bias and Variance Decomposition
 2. Feature Transforms and Kernel Methods
 
-Week 5
+Week 5 (Assessed Coursework 1 Announcement)
 
 1. Probabilistic Model Selection in Regression
 
@@ -58,7 +58,7 @@ Week 8
 
 12.  Probabilistic Graphical Models
 
-Week 9
+Week 9 (Assessed Coursework 2 Announcement)
 
 1.  Advanced Topics in Machine Learning (Guest Lectures, TBD)
 
