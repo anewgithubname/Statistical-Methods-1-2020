@@ -29,11 +29,13 @@ Find more on
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
 
 2. Regression: Overfitting and Curse of Dimensionality
+- [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_notes.pdf)
+- [Proof](lec2/proof.pdf)
 
 Week 2
 
-3. Regression: a Probabilistic View
-4. Risks and Bayes Optimal Prediction
+1. Regression: a Probabilistic View
+2. Risks and Bayes Optimal Prediction
 
 Week 3
 
