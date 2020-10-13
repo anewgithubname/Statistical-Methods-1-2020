@@ -23,7 +23,7 @@ Find more on
 
 ## Syllabus 
 
-**Week 1**
+Week 1
 1. Decision Making: An Introduction
 
 - [Slides](lec1/intro.pdf); [Slides with notes](lec1/intro_notes.pdf)
@@ -32,9 +32,10 @@ Find more on
 - [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_notes.pdf)
 - [Proof](lec2/proof.pdf)
 
-Week 2
+**Week 2**
 
 1. Regression: a Probabilistic View
+- [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_notes.pdf)
 2. Risks and Bayes Optimal Prediction
 
 Week 3
