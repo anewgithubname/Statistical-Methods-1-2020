@@ -36,6 +36,7 @@ Week 1
 
 1. Regression: a Probabilistic View
 - [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_notes.pdf)
+- [Poof](lec3/Proof3.pdf)
 2. Risks and Bayes Optimal Prediction
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_notes.pdf)
 
