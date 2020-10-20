@@ -40,7 +40,7 @@ Week 2
 2. Risks and Bayes Optimal Prediction
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_notes.pdf)
 - [Proof of Optimal Decision Classifier](lec4/decisionboundary_completesqurare.pdf)
-- [Proof of Optimal Decision Prediction](lec4/proofs.png)
+- [Proof of Optimal Decision Prediction](lec4/proofs.PNG)
 
 **Week 3**
 
