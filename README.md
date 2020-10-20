@@ -45,8 +45,8 @@ Week 2
 **Week 3**
 
 1. Gaussian Identities
-- [Notes](lec5/Lec5.pdf)
-- [Copmuting Lab](lec5/CL.pdf)
+- [Notes](lec5/lec.pdf)
+- [Copmuting Lab](lec5/cl.pdf)
 
 Week 4
    
