@@ -32,18 +32,21 @@ Week 1
 - [Slides](lec2/of_cod2.pdf); [Slides with notes](lec2/of_cod2_notes.pdf)
 - [Proof](lec2/proof.pdf)
 
-**Week 2**
+Week 2
 
 1. Regression: a Probabilistic View
 - [Slides](lec3/prob_reg.pdf); [Slides with notes](lec3/prob_reg_notes.pdf)
 - [Poof of the full Bayesian approach](lec3/Proof3.pdf)
 2. Risks and Bayes Optimal Prediction
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_notes.pdf)
-- [Proof of Optimal Decision Function](lec4/decisionboundary_completesqurare.pdf)
+- [Proof of Optimal Decision Classifier](lec4/decisionboundary_completesqurare.pdf)
+- [Proof of Optimal Decision Prediction](lec4/proofs.png)
 
-Week 3
+**Week 3**
 
 1. Gaussian Identities
+- [Notes](lec5/Lec5.pdf)
+- [Copmuting Lab](lec5/CL.pdf)
 
 Week 4
    
