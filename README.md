@@ -39,7 +39,7 @@ Week 2
 - [Poof of the full Bayesian approach](lec3/Proof3.pdf)
 2. Risks and Bayes Optimal Prediction
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_notes.pdf)
-- [Proof of Optimal Decision Classifier](lec4/decisionboundary_completesqurare.pdf)
+- [Proof of Optimal Classifier](lec4/decisionboundary_completesqurare.pdf)
 - [Proof of Optimal Decision Prediction](lec4/proofs.PNG)
 
 **Week 3**
