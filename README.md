@@ -47,6 +47,7 @@ Week 2
 1. Gaussian Identities
 - [Notes](lec5/lec.pdf), [Summary](lec5/summary.pdf)
 - [Copmuting Lab](lec5/cl.pdf)
+- [95 percent region](lec5/nightyfive.pdf)
 
 Week 4
    
