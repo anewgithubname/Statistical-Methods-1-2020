@@ -42,16 +42,17 @@ Week 2
 - [Proof of Optimal Classifier](lec4/decisionboundary_completesqurare.pdf)
 - [Proof of Optimal Prediction](lec4/proofs.PNG)
 
-**Week 3**
+Week 3
 
 1. Gaussian Identities
 - [Notes](lec5/lec.pdf), [Summary](lec5/summary.pdf)
 - [Copmuting Lab](lec5/cl.pdf)
 - [95 percent region](lec5/nightyfive.pdf)
 
-Week 4
+**Week 4**
    
 1. Bias and Variance Decomposition
+- [Slides](lec7/bv_decomposition.pdf)
 2. Feature Transforms and Kernel Methods
 
 Week 5 (AS1 Announcement)
