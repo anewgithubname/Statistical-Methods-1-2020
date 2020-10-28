@@ -32,7 +32,7 @@ For SM1, there are six topics. Due dates of the portfolios are in the brackets.
 
 - Probability Theory 
 
-- Linear Methods for Regression (due Mon, week 6)
+- Linear Methods for Regression (due Wed, week 6)
 
 - Linear Methods for Classification (due Mon, week 8)
 
