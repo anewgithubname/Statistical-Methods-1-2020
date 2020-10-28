@@ -52,7 +52,7 @@ Week 3
 **Week 4**
    
 1. Bias and Variance Decomposition
-- [Slides](lec7/bv_decomposition.pdf), [Slides with notes](lec7/bv_decomposition_notes.pdf)
+- [Slides](lec7/bv_decomposition.pdf), [Slides with notes](lec7/bv_decomposition_notes.pdf), [Corollaries](lec7/twoquestions.pdf)
 2. Feature Transforms and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
 
