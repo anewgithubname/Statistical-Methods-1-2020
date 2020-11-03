@@ -49,16 +49,17 @@ Week 3
 - [Copmuting Lab](lec5/cl.pdf)
 - [95 percent region](lec5/nightyfive.pdf)
 
-**Week 4**
+Week 4
    
 1. Bias and Variance Decomposition
 - [Slides](lec7/bv_decomposition.pdf), [Slides with notes](lec7/bv_decomposition_notes.pdf), [Corollaries](lec7/twoquestions.pdf)
 2. Feature Transforms and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
 
-Week 5 (AS1 Announcement)
+**Week 5 (AS1 Announcement)**
 
 1. Probabilistic Model Selection in Regression
+- [Slides](lec9/mosel.pdf)
 
 Week 6
 
