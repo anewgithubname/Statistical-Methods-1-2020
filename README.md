@@ -56,15 +56,16 @@ Week 4
 2. Feature Transforms and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
 
-**Week 5 (AS1 Announcement)**
+Week 5 (AS1 Announcement)
 
 1. Probabilistic Model Selection in Regression
 - [Slides](lec9/mosel.pdf)
 
-Week 6
+**Week 6**
 
 1.  Linear Classifiers
-2.  Discriminative Approach for Classification: Logistic Regression
+[Slides](lec10/linc.pdf)
+3.  Discriminative Approach for Classification: Logistic Regression
 
 Week 7
 
