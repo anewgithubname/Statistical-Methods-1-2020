@@ -64,9 +64,9 @@ Week 5 (AS1 Announcement)
 **Week 6**
 
 1.  Linear Classifiers
-[Slides](lec10/linc.pdf) [Computing Lab](lec10/perceptron.pdf)
+- [Slides](lec10/linc.pdf) [Computing Lab](lec10/perceptron.pdf)
 3.  Discriminative Approach for Classification: Logistic Regression
-[Slides](lec11/disc.pdf)
+- [Slides](lec11/disc.pdf)
 
 Week 7
 
