@@ -39,20 +39,20 @@ Week 2
 - [Poof of the full Bayesian approach](lec3/Proof3.pdf)
 2. Risks and Bayes Optimal Prediction
 - [Slides](lec4/BayesEstimator.pdf); [Slides with notes](lec4/BayesEstimator_notes.pdf)
-- [Proof of Optimal Classifier](lec4/decisionboundary_completesqurare.pdf), [Proof of Optimal Prediction](lec4/proofs.PNG)
+- [Proof of Optimal Classifier](lec4/decisionboundary_completesqurare.pdf); [Proof of Optimal Prediction](lec4/proofs.PNG)
 - [*Roadmap of Chapter 1*](lec4/roadmap.png)
 
 Week 3
 
 1. Gaussian Identities
-- [Notes](lec5/lec.pdf), [Summary](lec5/summary.pdf)
+- [Notes](lec5/lec.pdf); [Summary](lec5/summary.pdf)
 - [Copmuting Lab](lec5/cl.pdf)
 - [95 percent region](lec5/nightyfive.pdf)
 
 Week 4
    
 1. Bias and Variance Decomposition
-- [Slides](lec7/bv_decomposition.pdf), [Slides with notes](lec7/bv_decomposition_notes.pdf), [Corollaries](lec7/corollaries.png)
+- [Slides](lec7/bv_decomposition.pdf); [Slides with notes](lec7/bv_decomposition_notes.pdf); [Corollaries](lec7/corollaries.png)
 2. Feature Transforms and Kernel Methods
 - [Slides](lec8/ft_km.pdf)
 
@@ -64,7 +64,7 @@ Week 5 (AS1 Announcement)
 **Week 6**
 
 1.  Linear Classifiers
-- [Slides](lec10/linc.pdf) [Computing Lab](lec10/perceptron.pdf)
+- [Slides](lec10/linc.pdf); [Computing Lab](lec10/perceptron.pdf)
 3.  Discriminative Approach for Classification: Logistic Regression
 - [Slides](lec11/disc.pdf)
 
