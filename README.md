@@ -71,10 +71,11 @@ Week 5 (AS1 Announcement)
 Week 7
 
 1.  Support Vector Machine
+- [Slides](lec12/linc.pdf); [Computing Lab](lec12/cl.pdf) 
 
 Week 8
 
-12.  Probabilistic Graphical Models
+1.   Probabilistic Graphical Models
 
 Week 9 (AS2 Announcement)
 
