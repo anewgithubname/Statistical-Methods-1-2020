@@ -61,14 +61,14 @@ Week 5 (AS1 Announcement)
 1. Probabilistic Model Selection in Regression
 - [Slides](lec9/mosel.pdf)
 
-**Week 6**
+Week 6
 
 1.  Linear Classifiers
 - [Slides](lec10/linc.pdf); [Computing Lab](lec10/perceptron.pdf)
 3.  Discriminative Approach for Classification: Logistic Regression
 - [Slides](lec11/disc.pdf)
 
-Week 7
+**Week 7**
 
 1.  Support Vector Machine
 - [Slides](lec12/svm.pdf); [note](lec12/dual.pdf); [Computing Lab](lec12/cl.pdf) 
