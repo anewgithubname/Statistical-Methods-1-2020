@@ -71,7 +71,7 @@ Week 5 (AS1 Announcement)
 Week 7
 
 1.  Support Vector Machine
-- [Slides](lec12/svm.pdf); [note](lec12/note.pdf); [Computing Lab](lec12/cl.pdf) 
+- [Slides](lec12/svm.pdf); [note](lec12/dual.pdf); [Computing Lab](lec12/cl.pdf) 
 
 Week 8
 
