@@ -14,7 +14,7 @@ y = [ones(1,200), -ones(1,200)];
 n = size(x,2);
 
 w = randn(3,1);
-c = 1;
+c = .1
 
 eta = .1;
 for it = 1:100
@@ -30,7 +30,7 @@ for it = 1:100
         
     % SVM
     if y(i)*(w'*x(:,i)) <= 1
-        w = w + etai* (x(:,i)/(norm(x(:,i)))*y(i) - [c*w(1:end-1);0]);
+        w = w + etai* (x(:,i)*y(i) - [c*w(1:end-1);0]);
         display(sprintf('w:%.5f, %.5f, w0: %.5f', w(1), w(2), w(3)))
     end
     end
