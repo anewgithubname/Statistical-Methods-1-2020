@@ -76,7 +76,7 @@ Week 7
 **Week 8**
 
 1.   Probabilistic Graphical Models
-- [Slides](lec13/pgm.pdf); -[note](lec13/pgm_notes.pdf)
+- [Slides](lec13/pgm.pdf); [note](lec13/pgm_notes.pdf)
 
 Week 9 (AS2 Announcement)
 
