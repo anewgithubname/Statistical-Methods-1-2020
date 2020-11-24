@@ -68,14 +68,15 @@ Week 6
 3.  Discriminative Approach for Classification: Logistic Regression
 - [Slides](lec11/disc.pdf)
 
-**Week 7**
+Week 7
 
 1.  Support Vector Machine
 - [Slides](lec12/svm.pdf); [note](lec12/dual.pdf); [Computing Lab](lec12/cl.pdf) 
 
-Week 8
+**Week 8**
 
 1.   Probabilistic Graphical Models
+- [Slides](lec13/pgm.pdf); 
 
 Week 9 (AS2 Announcement)
 
