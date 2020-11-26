@@ -80,7 +80,10 @@ Week 7
 
 Week 9 (AS2 Announcement)
 
-1.  Advanced Topics in Machine Learning (Guest Lectures, TBD)
+1.  Advanced Topics in Machine Learning (Dr. Patrick Rubin-Delanchy)
+- Time: Regular Tuesday Slot
+2.  Advanced Topics in Machine Learning (Dr. Henry Reeve)
+- Time: Regular Wednesday Slot
 
 
 ## Readings:
